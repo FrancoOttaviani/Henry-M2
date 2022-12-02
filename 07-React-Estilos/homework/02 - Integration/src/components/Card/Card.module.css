@@ -1,0 +1,26 @@
+.divCard {
+  display: flex;
+  align-items: center;
+  /* background-image: url(""); */
+  width: 20%;
+  flex-direction: column;
+  border: solid 1px;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 5%;
+}
+
+.divCard img {
+  width: 90%;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.divCard button {
+  width: 25px;
+  height: 25px;
+  border-radius: 5px;
+  color: white;
+  background-color: black;
+  text-align: center;
+}
